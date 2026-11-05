@@ -4,6 +4,10 @@ Android gallery for browsing images from Civitai.
 
 **[Download the latest APK](https://github.com/greyowlsteam/CivitGallery/releases/latest/download/CivitGallery.apk)** · [All releases](https://github.com/greyowlsteam/CivitGallery/releases)
 
+<a href="https://github.com/greyowlsteam/CivitGallery/releases/latest/download/CivitGallery.apk"><img src="qr-download.svg" width="200" alt="QR code: download the latest CivitGallery APK"></a>
+
+Scan with your phone camera to download · Наведите камеру телефона, чтобы скачать
+
 ## Install
 
 1. Download `CivitGallery.apk` on your phone (Android 8.0+).
