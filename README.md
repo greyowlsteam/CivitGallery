@@ -52,7 +52,7 @@ in your Civitai account, under Civitai's privacy policy.
 - when you hide extended tags, the IDs of those tags and of the images on the feed page, to find which images to hide or blur;
 - only if you link them: your email (the sign-in code is sent by email; only a hash of the code is kept) and your Telegram ID, username and name.
 
-The hosting keeps technical request logs, including IP addresses.
+Like any web server, it keeps technical request logs (time, request address, IP address) to run the service and protect it from abuse.
 
 **GitHub:** once a day the app asks GitHub for the latest release. No personal data is sent; GitHub sees your IP address.
 
@@ -110,7 +110,7 @@ CivitGallery нет в Google Play, а такие приложения Play За
 - если вы скрываете расширенные теги — ID этих тегов и картинок страницы ленты, чтобы найти, какие картинки скрыть или размыть;
 - только если вы их привяжете: почта (код входа приходит письмом, хранится только хэш кода) и ID, имя пользователя и имя в Telegram.
 
-Хостинг ведёт технические журналы запросов, включая IP-адреса.
+Как любой веб-сервер, он сохраняет технические журналы запросов (время, адрес запроса, IP-адрес) для работы и защиты от злоупотреблений.
 
 **GitHub:** раз в сутки приложение спрашивает у GitHub последнюю версию. Личные данные не передаются, GitHub видит ваш IP-адрес.
 
