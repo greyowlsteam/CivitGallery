@@ -19,7 +19,6 @@ Android 8.0 or newer.
 3. Tap **Install**.
 4. **Google Play Protect** may say the app could be harmful. **Do not tap OK — it cancels the installation.**
    Tap **More details**, then **Install anyway**. On some phones *Install anyway* is a text link above the OK button.
-5. **Xiaomi / Redmi / POCO** may run their own security check — choose the option to continue the installation.
 
 ### Why Play Protect warns
 
@@ -49,7 +48,6 @@ Android-галерея для просмотра картинок с Civitai.
 3. Нажмите **Установить**.
 4. **Play Защита** может написать, что приложение может навредить. **Не нажимайте «ОК» — это отменяет установку.**
    Нажмите **Подробнее**, затем **Всё равно установить**. На некоторых телефонах «Всё равно установить» — надпись-ссылка над кнопкой «ОК».
-5. **Xiaomi / Redmi / POCO** могут показать свою проверку безопасности — выберите вариант, который продолжает установку.
 
 ### Почему Play Защита предупреждает
 
