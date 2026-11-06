@@ -17,13 +17,13 @@ Android 8.0 or newer.
 1. Download `CivitGallery.apk` on your phone and open it (from the download notification or the Downloads folder).
 2. Android asks to allow installing apps from your browser: tap **Settings**, turn on **Allow from this source**, go back.
 3. Tap **Install**.
-4. **Google Play Protect** may say the app could be harmful. **Do not tap OK — it cancels the installation.**
-   Tap **More details**, then **Install anyway**. On some phones *Install anyway* is a text link above the OK button.
+4. **Google Play Protect** checks the app during installation. Keep it turned on and allow the scan.
 
-### Why Play Protect warns
+### Safety warnings
 
-CivitGallery is not on Google Play, and Play Protect judges such apps by reputation: a new app with few installs gets this warning
-regardless of what it does. It is a warning about an unknown app, not a detected threat.
+When you download the file, your browser or Android may warn that installing from unknown sources can be dangerous. This is a general warning: it applies to all apps made by independent developers and distributed through independent channels, not to CivitGallery specifically.
+
+Every installation, even from an unknown source, is checked by Google Play Protect, and its result is the main sign that an app is safe to use. With Play Protect on, you stay protected.
 The app needs only internet access, and every release lists the SHA-256 of the APK so you can check your download.
 
 ### Updates
@@ -75,13 +75,13 @@ Android-галерея для просмотра картинок с Civitai.
 1. Скачайте `CivitGallery.apk` на телефон и откройте его — из уведомления о загрузке или из папки «Загрузки».
 2. Android попросит разрешить установку из браузера: нажмите **Настройки**, включите **Разрешить из этого источника**, вернитесь назад.
 3. Нажмите **Установить**.
-4. **Play Защита** может написать, что приложение может навредить. **Не нажимайте «ОК» — это отменяет установку.**
-   Нажмите **Подробнее**, затем **Всё равно установить**. На некоторых телефонах «Всё равно установить» — надпись-ссылка над кнопкой «ОК».
+4. **Play Защита** проверяет приложение при установке. Не отключайте её и разрешите проверку.
 
-### Почему Play Защита предупреждает
+### Предупреждения о безопасности
 
-CivitGallery нет в Google Play, а такие приложения Play Защита оценивает по известности: новое приложение с небольшим числом установок
-получает это предупреждение, что бы оно ни делало. Это предупреждение о незнакомом приложении, а не найденная угроза.
+При скачивании файла браузер или Android могут предупредить, что установка из неизвестных источников опасна. Это общее предупреждение: оно относится ко всем приложениям, которые создают независимые разработчики и распространяют по независимым каналам, а не конкретно к CivitGallery.
+
+Любая установка, даже из неизвестного источника, проверяется Play Защитой, и её результат — главный признак того, что приложением можно пользоваться безопасно. С включённой Play Защитой вы остаётесь под защитой.
 Приложению нужен только доступ в интернет, а в описании каждого релиза есть SHA-256 файла для проверки.
 
 ### Обновления
