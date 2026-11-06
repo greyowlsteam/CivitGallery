@@ -24,7 +24,7 @@ Android 8.0 or newer.
 
 CivitGallery is not on Google Play, and Play Protect judges such apps by reputation: a new app with few installs gets this warning
 regardless of what it does. It is a warning about an unknown app, not a detected threat.
-Every release lists the SHA-256 of the APK so you can check your download.
+The app needs only internet access, and every release lists the SHA-256 of the APK so you can check your download.
 
 ### Updates
 
@@ -53,7 +53,7 @@ Android-галерея для просмотра картинок с Civitai.
 
 CivitGallery нет в Google Play, а такие приложения Play Защита оценивает по известности: новое приложение с небольшим числом установок
 получает это предупреждение, что бы оно ни делало. Это предупреждение о незнакомом приложении, а не найденная угроза.
-В описании каждого релиза есть SHA-256 файла для проверки.
+Приложению нужен только доступ в интернет, а в описании каждого релиза есть SHA-256 файла для проверки.
 
 ### Обновления
 
