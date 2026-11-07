@@ -1,6 +1,6 @@
 # CivitGallery
 
-Android gallery for browsing images from Civitai.
+Android gallery for browsing images and videos from Civitai.
 
 **[Download the latest APK](https://github.com/greyowlsteam/CivitGallery/releases/latest/download/CivitGallery.apk)** · [All releases](https://github.com/greyowlsteam/CivitGallery/releases)
 
@@ -24,7 +24,7 @@ Android 8.0 or newer.
 When you download the file, your browser or Android may warn that installing from unknown sources can be dangerous. This is a general warning: it applies to all apps made by independent developers and distributed through independent channels, not to CivitGallery specifically.
 
 Every installation, even from an unknown source, is checked by Google Play Protect, and its result is the main sign that an app is safe to use. With Play Protect on, you stay protected.
-The app needs only internet access, and every release lists the SHA-256 of the APK so you can check your download.
+The app needs only network access, and every release lists the SHA-256 of the APK so you can check your download.
 
 ### Updates
 
@@ -64,7 +64,7 @@ To disconnect Civitai, sign out in Settings → Civitai account.
 
 # CivitGallery (RU)
 
-Android-галерея для просмотра картинок с Civitai.
+Android-галерея для просмотра картинок и видео с Civitai.
 
 **[Скачать последнюю версию](https://github.com/greyowlsteam/CivitGallery/releases/latest/download/CivitGallery.apk)** · [Все релизы](https://github.com/greyowlsteam/CivitGallery/releases)
 
@@ -82,7 +82,7 @@ Android-галерея для просмотра картинок с Civitai.
 При скачивании файла браузер или Android могут предупредить, что установка из неизвестных источников опасна. Это общее предупреждение: оно относится ко всем приложениям, которые создают независимые разработчики и распространяют по независимым каналам, а не конкретно к CivitGallery.
 
 Любая установка, даже из неизвестного источника, проверяется Play Защитой, и её результат — главный признак того, что приложением можно пользоваться безопасно. С включённой Play Защитой вы остаётесь под защитой.
-Приложению нужен только доступ в интернет, а в описании каждого релиза есть SHA-256 файла для проверки.
+Приложению нужен только доступ к сети, а в описании каждого релиза есть SHA-256 файла для проверки.
 
 ### Обновления
 
