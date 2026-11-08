@@ -35,7 +35,7 @@ install it over the current version the same way. Your settings and sign-in stay
 
 No ads, analytics or trackers. You don't need an account to browse.
 
-**Only on your phone:** settings, hidden tags and authors, the image cache, sign-in tokens (encrypted with a key in Android Keystore).
+**Only on your phone:** theme, tile size and feed filters, the image cache, sign-in tokens (encrypted with a key in Android Keystore).
 App data is excluded from Android backups.
 
 **Civitai** (civitai.com): images and their data are loaded directly from Civitai. If you sign in with Civitai, you do it on Civitai's own page —
@@ -50,13 +50,14 @@ in your Civitai account, under Civitai's privacy policy.
 - a random nickname (`user-123456`) that you can change;
 - the tags you add, your votes and reports, and the IDs of the Civitai images they belong to;
 - when you hide extended tags, the IDs of those tags and of the images on the feed page, to find which images to hide or blur;
+- your app settings: hidden tags and authors, extended tags to hide, ratings, consents and video sound — so they come back after reinstalling;
 - only if you link them: your email (the sign-in code is sent by email; only a hash of the code is kept) and your Telegram ID, username and name.
 
 Like any web server, it keeps technical request logs (time, request address, IP address) to run the service and protect it from abuse.
 
 **GitHub:** once a day the app asks GitHub for the latest release. No personal data is sent; GitHub sees your IP address.
 
-**Deleting your data:** Settings → App profile → **Delete profile** deletes your votes, reports, sign-in methods and device keys.
+**Deleting your data:** Settings → App profile → **Delete profile** deletes your votes, reports, sign-in methods, device keys and saved settings.
 Tags you added stay on the images without your name. To remove data from the phone, uninstall the app.
 To disconnect Civitai, sign out in Settings → Civitai account.
 
@@ -93,7 +94,7 @@ Android-галерея для просмотра картинок и видео 
 
 Без рекламы, аналитики и трекеров. Для просмотра аккаунт не нужен.
 
-**Только на телефоне:** настройки, скрытые теги и авторы, кэш картинок, токены входа (зашифрованы ключом в Android Keystore).
+**Только на телефоне:** тема, размер плиток и фильтры ленты, кэш картинок, токены входа (зашифрованы ключом в Android Keystore).
 Данные приложения не попадают в резервные копии Android.
 
 **Civitai** (civitai.com): картинки и данные о них загружаются напрямую с Civitai. Вход через Civitai происходит на странице самого Civitai —
@@ -108,12 +109,13 @@ Android-галерея для просмотра картинок и видео 
 - случайный ник (`user-123456`), его можно сменить;
 - добавленные вами теги, голоса и жалобы, а также ID картинок Civitai, к которым они относятся;
 - если вы скрываете расширенные теги — ID этих тегов и картинок страницы ленты, чтобы найти, какие картинки скрыть или размыть;
+- настройки приложения: скрытые теги и авторы, скрываемые расширенные теги, рейтинги, согласия и звук видео — чтобы они вернулись после переустановки;
 - только если вы их привяжете: почта (код входа приходит письмом, хранится только хэш кода) и ID, имя пользователя и имя в Telegram.
 
 Как любой веб-сервер, он сохраняет технические журналы запросов (время, адрес запроса, IP-адрес) для работы и защиты от злоупотреблений.
 
 **GitHub:** раз в сутки приложение спрашивает у GitHub последнюю версию. Личные данные не передаются, GitHub видит ваш IP-адрес.
 
-**Удаление данных:** «Настройки → Профиль приложения → **Удалить профиль**» удаляет голоса, жалобы, способы входа и ключи устройств.
+**Удаление данных:** «Настройки → Профиль приложения → **Удалить профиль**» удаляет голоса, жалобы, способы входа, ключи устройств и сохранённые настройки.
 Добавленные теги остаются на картинках без вашего имени. Чтобы удалить данные с телефона, удалите приложение.
 Отключить Civitai — выйти из аккаунта в «Настройки → Аккаунт Civitai».
