@@ -8,7 +8,29 @@ Android gallery for browsing images and videos from Civitai.
 
 Scan with your phone camera to download · Наведите камеру телефона, чтобы скачать
 
-[Инструкция на русском ↓](#установка)
+[Описание на русском ↓](#civitgallery-ru)
+
+<p>
+  <img src="screenshots/feed.jpg" width="200" alt="Feed with filters">
+  <img src="screenshots/viewer.jpg" width="200" alt="Image viewer with reactions">
+  <img src="screenshots/prompt.jpg" width="200" alt="Prompt and generation parameters">
+  <img src="screenshots/select.jpg" width="200" alt="Multi-select: add to collections or tag">
+</p>
+
+## Features
+
+- **Feed** of images and videos from Civitai: sort by reactions, comments or date, by period, by base model (SDXL, Pony, Flux…). Tile size to your taste.
+- **Viewer** with swipe and zoom. Under each image: author, models and LoRAs used, **prompt and generation parameters** — copy one field or everything at once in A1111 format.
+- **Feeds by author, tag, model and post** — one tap from the image info.
+- **Search** for models, authors and collections; model card with versions, trigger words and files.
+- **Safe by default:** adult content is blurred and not even downloaded until you tap "Show". Choose which ratings (PG … XXX) to see at all.
+- **Hide** tags and authors you don't want to see.
+- **Sign in with Civitai (optional)** — on Civitai's own page, your password never passes through the app. Then: reactions 👍❤️😂😢, follows and a "Following" feed, tag voting, your collections — add one image or a whole selection at once.
+- **Extended tags:** add your own tags to any image, vote on them, hide or blur images by them.
+- **VR mode** for Cardboard-type headsets: browse the feed with your gaze.
+- **English and Russian** interface. No ads, no analytics, no trackers.
+
+*CivitGallery is an unofficial app. It is not affiliated with or endorsed by Civitai.*
 
 ## Install
 
@@ -68,6 +90,21 @@ To disconnect Civitai, sign out in Settings → Civitai account.
 Android-галерея для просмотра картинок и видео с Civitai.
 
 **[Скачать последнюю версию](https://github.com/greyowlsteam/CivitGallery/releases/latest/download/CivitGallery.apk)** · [Все релизы](https://github.com/greyowlsteam/CivitGallery/releases)
+
+## Возможности
+
+- **Лента** картинок и видео с Civitai: сортировка по реакциям, комментариям или дате, за период, по базовой модели (SDXL, Pony, Flux…). Размер плиток — на ваш вкус.
+- **Просмотр** со свайпом и зумом. У каждой картинки: автор, модели и LoRA, **промпт и параметры генерации** — копируются по одному или все сразу в формате A1111.
+- **Ленты автора, тега, модели и поста** — в одно нажатие из сведений о картинке.
+- **Поиск** моделей, авторов и коллекций; карточка модели с версиями, словами-триггерами и файлами.
+- **Безопасно по умолчанию:** взрослый контент размыт и даже не загружается, пока не нажмёте «Показать». Можно выбрать, какие рейтинги (PG … XXX) показывать вообще.
+- **Скрытие** тегов и авторов, которых не хотите видеть.
+- **Вход через Civitai (по желанию)** — на странице самого Civitai, пароль через приложение не проходит. После входа: реакции 👍❤️😂😢, подписки и лента «Подписки», голосование за теги, свои коллекции — по одной картинке или сразу выбранными.
+- **Расширенные теги:** свои теги на любую картинку, голосование, скрытие и размытие картинок по ним.
+- **VR-режим** для очков типа Cardboard: листайте ленту взглядом.
+- Интерфейс на **русском и английском**. Без рекламы, аналитики и трекеров.
+
+*CivitGallery — неофициальное приложение, не связано с Civitai и не одобрено им.*
 
 ## Установка
 
