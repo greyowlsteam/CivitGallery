@@ -27,7 +27,7 @@ Scan with your phone camera to download · Наведите камеру тел�
 - **Hide** tags and authors you don't want to see.
 - **Sign in with Civitai (optional)** — on Civitai's own page, your password never passes through the app. Then: reactions 👍❤️😂😢, follows and a "Following" feed, tag voting, your collections — add one image or a whole selection at once.
 - **Extended tags:** add your own tags to any image, vote on them, hide or blur images by them.
-- **VR mode** for Cardboard-type headsets: browse the feed with your gaze.
+- **VR mode** for Cardboard-type headsets: browse feeds with your gaze, 3D for stereo pairs and ordinary pictures, 360° panoramas, videos, adding to collections. **[How to use VR](VR.md#en)**
 - **English and Russian** interface. No ads, no analytics, no trackers.
 
 *CivitGallery is an unofficial app. It is not affiliated with or endorsed by Civitai.*
@@ -101,7 +101,7 @@ Android-галерея для просмотра картинок и видео 
 - **Скрытие** тегов и авторов, которых не хотите видеть.
 - **Вход через Civitai (по желанию)** — на странице самого Civitai, пароль через приложение не проходит. После входа: реакции 👍❤️😂😢, подписки и лента «Подписки», голосование за теги, свои коллекции — по одной картинке или сразу выбранными.
 - **Расширенные теги:** свои теги на любую картинку, голосование, скрытие и размытие картинок по ним.
-- **VR-режим** для очков типа Cardboard: листайте ленту взглядом.
+- **VR-режим** для очков типа Cardboard: ленты взглядом, 3D для стереопар и обычных картинок, панорамы 360°, видео, добавление в коллекции. **[Как пользоваться VR](VR.md#ru)**
 - Интерфейс на **русском и английском**. Без рекламы, аналитики и трекеров.
 
 *CivitGallery — неофициальное приложение, не связано с Civitai и не одобрено им.*
