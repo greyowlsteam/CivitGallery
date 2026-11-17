@@ -32,6 +32,8 @@ Scan with your phone camera to download · Наведите камеру тел�
 
 *CivitGallery is an unofficial app. It is not affiliated with or endorsed by Civitai.*
 
+Made by the **Grey Owls** team 🦉🦉 — [greyowlsteam.github.io](https://greyowlsteam.github.io/en/)
+
 ## Install
 
 Android 8.0 or newer.
@@ -105,6 +107,8 @@ Android-галерея для просмотра картинок и видео 
 - Интерфейс на **русском и английском**. Без рекламы, аналитики и трекеров.
 
 *CivitGallery — неофициальное приложение, не связано с Civitai и не одобрено им.*
+
+Сделано командой **«Серые Совы»** 🦉🦉 — [greyowlsteam.github.io](https://greyowlsteam.github.io/)
 
 ## Установка
 
