@@ -62,10 +62,13 @@
 - **Готовые стереопары** (две картинки рядом, «SBS») распознаются сами и сразу показываются объёмно.
   Кнопка «3D» выключает/включает объём, **«⇄»** — если объём «вывернут» (перекрёстная стереопара).
 - **Обычные картинки** тоже можно сделать объёмными: нажмите «3D». Для этого один раз скачайте модель
-  глубины: *Настройки → Псевдо-3D* или *Профиль → Псевдо-3D* (~99 МБ, работает без интернета, фото
-  никуда не отправляются). Пока строится карта глубины (несколько секунд), справа от картинки горит
+  глубины: *Настройки → Псевдо-3D* или *Профиль → Псевдо-3D* (50–99 МБ, моделей несколько — считает
+  выбранная там; работает без интернета, фото никуда не отправляются). Пока строится карта глубины (несколько секунд), справа от картинки горит
   «3D …», когда готово — синий значок «3D».
 - Включённое 3D остаётся включённым, пока листаете, — можно смотреть подряд.
+- **Сила объёма** — кнопка «×1» левее «3D» (видна, пока 3D включено): ×0.5 → ×1 → ×1.5 → ×2 → ×2.5 и
+  снова ×0.5. Подберите под свои глаза — выбор запоминается. Если картинка двоится или глаза устают,
+  уменьшите.
 
 ### Панорамы 360°
 
@@ -180,10 +183,14 @@ No hands needed. There's a **dot** in the middle of your view.
 - **Ready-made stereo pairs** (two pictures side by side, "SBS") are detected automatically and shown in
   3D right away. The "3D" button turns depth off/on; **"⇄"** fixes "inside-out" depth (cross-eyed pairs).
 - **Ordinary pictures** can be made 3D too: press "3D". For this, download the depth model once:
-  *Settings → Pseudo-3D* or *Profile → Pseudo-3D* (~99 MB; works offline, photos never leave the phone).
+  *Settings → Pseudo-3D* or *Profile → Pseudo-3D* (50–99 MB; there are several models, the one selected
+  there is used; works offline, photos never leave the phone).
   While the depth map is being built (a few seconds), "3D …" shows to the right of the picture; when
   it's ready, the blue "3D" badge appears.
 - 3D stays on as you move through pictures, so you can watch them one after another.
+- **Depth strength** — the "×1" button left of "3D" (shown while 3D is on): ×0.5 → ×1 → ×1.5 → ×2 → ×2.5
+  and back to ×0.5. Pick what suits your eyes — the choice is remembered. If the picture doubles or your
+  eyes get tired, turn it down.
 
 ### 360° panoramas
 
