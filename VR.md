@@ -66,9 +66,14 @@
   выбранная там; работает без интернета, фото никуда не отправляются). Пока строится карта глубины (несколько секунд), справа от картинки горит
   «3D …», когда готово — синий значок «3D».
 - Включённое 3D остаётся включённым, пока листаете, — можно смотреть подряд.
-- **Сила объёма** — кнопка «×1» левее «3D» (видна, пока 3D включено): ×0.5 → ×1 → ×1.5 → ×2 → ×2.5 и
-  снова ×0.5. Подберите под свои глаза — выбор запоминается. Если картинка двоится или глаза устают,
-  уменьшите.
+- **Сила объёма** — пока 3D включено, над картинкой качелька **«−» ×1 «+»**: «−» слева уменьшает,
+  «+» справа увеличивает (×0.25 … ×1.5). Подберите под свои глаза — выбор запоминается. Если картинка
+  двоится или глаза устают, уменьшите; обычно удобно ×0.5–×1.
+- **Модель глубины** — кнопка правее «▶» (если скачано больше одной модели или есть своя карта):
+  перебирает «Своя» → DA2 → DA3 → DAD, картинка сразу пересчитывается.
+- **Своя карта глубины** — делается на телефоне: экран 3D → кнопка «Своя карта глубины» → чёрно-белая
+  карта из галереи (белое — ближе). В VR она показывается вместо посчитанной.
+- Пока идёт слайдшоу, над картинкой интервалы — кнопки глубины скрыты.
 
 ### Панорамы 360°
 
@@ -188,9 +193,14 @@ No hands needed. There's a **dot** in the middle of your view.
   While the depth map is being built (a few seconds), "3D …" shows to the right of the picture; when
   it's ready, the blue "3D" badge appears.
 - 3D stays on as you move through pictures, so you can watch them one after another.
-- **Depth strength** — the "×1" button left of "3D" (shown while 3D is on): ×0.5 → ×1 → ×1.5 → ×2 → ×2.5
-  and back to ×0.5. Pick what suits your eyes — the choice is remembered. If the picture doubles or your
-  eyes get tired, turn it down.
+- **Depth strength** — while 3D is on, a seesaw sits above the picture: **"−" ×1 "+"**. "−" on the left
+  lowers it, "+" on the right raises it (×0.25 … ×1.5). Pick what suits your eyes — the choice is
+  remembered. If the picture doubles or your eyes get tired, turn it down; ×0.5–×1 is usually comfortable.
+- **Depth model** — the button right of "▶" (when more than one model is downloaded or you have your own
+  map): cycles Mine → DA2 → DA3 → DAD, and the picture is recomputed right away.
+- **Your own depth map** — made on the phone: 3D screen → "Your own depth map" → a black-and-white map from
+  your gallery (white is nearer). In VR it is shown instead of the computed one.
+- During a slideshow the row above the picture shows intervals, so the depth buttons are hidden.
 
 ### 360° panoramas
 
